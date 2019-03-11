@@ -35,8 +35,8 @@ import jsattrak.objects.AbstractSatellite;
 import name.gano.astro.AstroConst;
 import name.gano.astro.MathUtils;
 import name.gano.worldwind.layers.Earth.ECIRenderableLayer;
+import net.java.joglutils.model.DisplayListRenderer;
 //import name.gano.worldwind.layers.Earth.ECIRenderableLayer;
-import net.java.joglutils.model.examples.DisplayListRenderer;
 import net.java.joglutils.model.geometry.Model;
 import net.java.joglutils.model.iModel3DRenderer;
 
